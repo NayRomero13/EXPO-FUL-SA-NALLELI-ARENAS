@@ -1,0 +1,26 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent task,Blocked By (Dependencies),Blocking (Dependencies),EXPO,Story points,Fecha de inicio,Fecha límite,Estado,Dependencia
+"1215251128637566",2026-05-29,,2026-05-29,Diseño de Pantalla de Acceso,Backlog,Elizabeth Alfaro,elidevanyalfaro@gmail.com,2026-05-30,2026-05-30,,Diseño de interfaz principal del ERP,EXPOFULL SA,,,,EXPO-4,,2026-05-29,2026-05-29,Por Hacer,—
+"1215251128637567",2026-05-29,,2026-05-29,Configuración de Punto de Venta,Backlog,Maria,mariarmero.car99@gmail.com,2026-05-31,2026-05-31,,Integración con base de datos,EXPOFULL SA,,,,EXPO-5,,2026-05-30,2026-05-30,Por Hacer,Diseño de Pantalla de Acceso
+"1215251128637568",2026-05-29,,2026-05-29,Registro de Clientes,Backlog,Nay Romero,nan.rmr@gmail.com,2026-06-01,2026-06-01,,Módulo de gestión de clientes,EXPOFULL SA,,,,EXPO-6,,2026-05-31,2026-05-31,En Proceso,Configuración de Punto de Venta
+"1215251128637569",2026-05-29,,2026-05-29,Módulo de Empleados,Backlog,Elizabeth Alfaro,elidevanyalfaro@gmail.com,2026-06-02,2026-06-02,,Control de personal y roles,EXPOFULL SA,,,,EXPO-7,,2026-06-01,2026-06-01,En Proceso,Registro de Clientes
+"1215251128637570",2026-05-29,,2026-05-29,Desarrollo de Inventarios,Backlog,Maria,mariarmero.car99@gmail.com,2026-06-03,2026-06-03,,Control de stock y alertas,EXPOFULL SA,,,,EXPO-8,,2026-06-02,2026-06-02,En Proceso,Módulo de Empleados
+"1215251128637571",2026-05-29,,2026-05-29,Pruebas de Ventas,Backlog,Nay Romero,nan.rmr@gmail.com,2026-06-04,2026-06-04,,Validación de flujo de ventas,EXPOFULL SA,,,,EXPO-9,,2026-06-03,2026-06-03,En Pruebas,Desarrollo de Inventarios
+"1215251128637572",2026-05-29,,2026-05-29,Test de Reportes,Backlog,Maria,mariarmero.car99@gmail.com,2026-06-05,2026-06-05,,Validación de reportes automáticos,EXPOFULL SA,,,,EXPO-10,,2026-06-04,2026-06-04,En Pruebas,Pruebas de Ventas
+"1215251128637573",2026-05-29,,2026-05-29,Instalación del Servidor,Backlog,Elizabeth Alfaro,elidevanyalfaro@gmail.com,2026-06-06,2026-06-06,,Configuración del entorno productivo,EXPOFULL SA,,,,EXPO-11,,2026-06-05,2026-06-05,Completado,Test de Reportes
+"1215251128637574",2026-05-29,,2026-05-29,Capacitación Inicial,Backlog,Maria,mariarmero.car99@gmail.com,2026-06-07,2026-06-07,,Formación de usuarios finales,EXPOFULL SA,,,,EXPO-12,,2026-06-06,2026-06-06,Completado,Instalación del Servidor
+"1215250854824784",2026-05-29,,2026-05-29,,Backlog,,,2026-06-08,2026-06-08,,,EXPOFULL SA,,,,EXPO-15,,,,,
+"1215250854824787",2026-05-29,,2026-05-29,,Backlog,,,,,,,EXPOFULL SA,,,,EXPO-16,,,,,
+"1215250854824790",2026-05-29,,2026-05-29,,Backlog,,,,,,,EXPOFULL SA,,,,EXPO-17,,,,,
+"1215250854824793",2026-05-29,,2026-05-29,,Backlog,,,,,,,EXPOFULL SA,,,,EXPO-18,,,,,
+"1215250854824795",2026-05-29,,2026-05-29,,Backlog,,,,,,,EXPOFULL SA,,,,EXPO-19,,,,,
+"1215250828875538",2026-05-29,,2026-05-29,[Example] Backend product filtering by price range support,In progress,Nay Romero,nan.rmr@gmail.com,,,,"Acceptance criteria
+
+As a system
+I need to retrieve only products within the selected price range from the database
+So that shoppers can see accurate, real-time results when applying the filter
+How this impacts metrics
+
+    Ensures accurate filtering functionality for the price range feature
+    Improves response time for filtered searches
+    Supports higher conversion by showing only relevant products
+",EXPOFULL SA,,,,EXPO-1,5,,,,
